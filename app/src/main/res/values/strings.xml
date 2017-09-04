@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BasicUiControls</string>
+    <string name="sushi">Sushi</string>
+    <string name="ramen">Ramen</string>
+    <string name="broccoli">Broccoli</string>
+    <string name="tomatoes">Tomatoes</string>
+    <string name="cucumber">Cucumber</string>
+</resources>
